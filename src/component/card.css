@@ -1,0 +1,32 @@
+.card {
+  background-color: blue;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  color: azure;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 350px;
+  height: 200px;
+}
+div {
+  margin: 5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bankName {
+  align-self: flex-end;
+}
+.creditNum {
+  margin-top: 40px;
+  font-weight: 900;
+}
+.expDate {
+  font-size: 0.8rem;
+  margin-top: 20px;
+}
+.name {
+  align-self: flex-start;
+  margin: 30px 0 0 20px;
+  font-weight: 500;
+}

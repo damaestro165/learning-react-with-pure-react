@@ -1,0 +1,15 @@
+.container {
+  margin: 5px;
+  border: solid rgb(7, 7, 7) 2px;
+  padding: 20px;
+  display: flex;
+  height: 300px;
+}
+img {
+  max-width: 100px;
+}
+.center {
+  justify-self: center;
+  align-self: center;
+  margin-left: -40px;
+}
