@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/learning-react-with-pure-react/static/css/main.72b03466.css",
+    "main.js": "/learning-react-with-pure-react/static/js/main.412795db.js",
+    "index.html": "/learning-react-with-pure-react/index.html",
+    "main.72b03466.css.map": "/learning-react-with-pure-react/static/css/main.72b03466.css.map",
+    "main.412795db.js.map": "/learning-react-with-pure-react/static/js/main.412795db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72b03466.css",
+    "static/js/main.412795db.js"
+  ]
+}
